@@ -2936,8 +2936,8 @@ def extract_json_object(text):
 
 def main():
     # Get API key from environment variable or user input
-    gemini_api_key = "AIzaSyCACmA9NwFINrLSw7F6mo1P8PJzVdswIPA"
-    # gemini_api_key = "AIzaSyCtcXpKqIpyp2rd2Felgq2d8GEK90oVLQI"
+    gemini_api_key = "AI"
+    # gemini_api_key = "AI"
     if not gemini_api_key:
         gemini_api_key = input("Please enter your Gemini API key: ")
     
