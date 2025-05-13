@@ -91,6 +91,7 @@ If you find this project interesting or useful:
 
 ## 📃 License
 
+This project is licensed under the MIT License.
 
 ---
 
